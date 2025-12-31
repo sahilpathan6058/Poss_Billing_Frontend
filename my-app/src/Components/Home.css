@@ -1,0 +1,13 @@
+.home-background {
+  background-image: url('https://images.pexels.com/photos/17264519/pexels-photo-17264519.jpeg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 91.6vh;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.5s ease, filter 0.5s ease; /* smooth transition */
+  will-change: transform;
+}
+
+
